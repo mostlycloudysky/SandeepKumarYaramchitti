@@ -40,3 +40,9 @@ I love to design and code my ideas into life through web, native applications an
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SandeepKumarYaramchitti&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepKumarYaramchitti&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+
+## My Blogs:
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sandeepkumary/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sandeepkumary/0" alt="Recent Article 0"> 
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sandeepkumary/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sandeepkumary/1" alt="Recent Article 1"> 
