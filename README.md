@@ -9,6 +9,13 @@
 
 I love to design and code my ideas into life through web, native applications and plugged into all things in tech, from software to hardware (IOT devices, Sensors etc.). Always available to chat about anything in tech.
 
+<a href="#"><img src="https://img.shields.io/badge/Full%20Stack-Developer-white?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/Cloud%20-Engineering-white?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/Native%20IOS%20-Development-white?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/DevOps%20-Engineer-white?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/IOT-Development-white?style=for-the-badge"></a>
+
+
 <!--
 **SandeepKumarYaramchitti/SandeepKumarYaramchitti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
