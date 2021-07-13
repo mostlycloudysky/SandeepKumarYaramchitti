@@ -5,6 +5,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/________s.a.n.d.e.e.p_____/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://sandeepkumary.medium.com)
 
+## About me
+
+I love to design and code my ideas into life through web, native applications and plugged into all things in tech, from software to hardware (IOT devices, Sensors etc.). Always available to chat about anything in tech.
+
 <!--
 **SandeepKumarYaramchitti/SandeepKumarYaramchitti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
