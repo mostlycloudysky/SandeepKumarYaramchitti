@@ -15,9 +15,8 @@ I love to design and code my ideas into life through web, native applications an
 <a href="#"><img src="https://img.shields.io/badge/Cloud%20-Engineering-white?style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/IOT-Development-white?style=for-the-badge"></a>
 
+<!-- <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" /> -->
 
-<!--
-**SandeepKumarYaramchitti/SandeepKumarYaramchitti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -29,4 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
