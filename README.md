@@ -15,7 +15,7 @@ I love to design and code my ideas into life through web, native applications an
 <a href="#"><img src="https://img.shields.io/badge/Cloud%20-Engineering-white?style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/IOT-Development-white?style=for-the-badge"></a>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/SandeepKumarYaramchitti/SandeepKumarYaramchitti/main/images/ProfileImage.gif" width="408" height="315" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/SandeepKumarYaramchitti/SandeepKumarYaramchitti/main/images/ProfileImage.gif" width="408" height="300" />
 
 
 
@@ -26,6 +26,10 @@ I love to design and code my ideas into life through web, native applications an
 - 💬 Ask me about anything, I am happy to help
 - 📫 Please [react out to me directly](mailto:ysandeepkumar88@gmail.com) with any questions and/or feedback!
 - 😄 Now a pro swimmer and basketball player :) 
+
+
+
+
 
 
 
