@@ -47,4 +47,4 @@ I love to design and code my ideas into life through web, native applications an
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sandeepkumary/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sandeepkumary/1" alt="Recent Article 1"> 
   
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sandeepkumary/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sandeepkumary/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sandeepkumary/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sandeepkumary/2" alt="Recent Article 2"> 
