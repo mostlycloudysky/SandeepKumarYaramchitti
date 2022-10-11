@@ -7,7 +7,7 @@
 
 ## About Me &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SandeepKumarYaramchitti.visitor-badge)
 
-I love to design and code my ideas into life through web, native applications and plugged into all things in tech, from software to hardware (IOT devices, Sensors etc.). Always available to chat about anything in tech.
+I love to design and code my ideas into life through full stack applications, Cloud Based Application Development and Infrastrucuture provisioning, building starter kits, SDKs and plugged into all things in tech, from software to hardware (IOT devices, Sensors etc.). Always available to chat about anything in tech.
 
 <a href="#"><img src="https://img.shields.io/badge/Cloud%20-Engineering-white?style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/Full%20Stack-Developer-white?style=for-the-badge"></a>
