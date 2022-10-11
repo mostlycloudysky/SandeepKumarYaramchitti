@@ -9,10 +9,10 @@
 
 I love to design and code my ideas into life through web, native applications and plugged into all things in tech, from software to hardware (IOT devices, Sensors etc.). Always available to chat about anything in tech.
 
+<a href="#"><img src="https://img.shields.io/badge/Cloud%20-Engineering-white?style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/Full%20Stack-Developer-white?style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/Automation-Engineer-white?style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/DevOps%20-Engineer-white?style=for-the-badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/Cloud%20-Engineering-white?style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/IOT-Development-white?style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/IOS%20App-Development-white?style=for-the-badge"></a>
 
@@ -21,8 +21,8 @@ I love to design and code my ideas into life through web, native applications an
 
 
 
-- 🔭 I’m currently working on Vuejs, React, React-native, Nodejs API with express, AWS cloud, Swift for IOS apps, Automation with Cypress, Protractor and Selenium etc.
-- 🌱 I’m currently learning IOT development with Arduino and integrating them to AWS cloud and accessing them over the internet with a react-native expo application.
+- 🔭 Engineering Lead with 12+ years of experience in spearheading Technology Innovation, Solution Architecture, DevSecOps, Full Stack Development and Agile Delivery. 
+- 🌱 Leverage technical expertise to provide the necessary design thinking, architecture and thought leadership to help mature the engineering practices in Cloud implementation for applications and infrastructure, Establish DevSecOps practice, Process Automation, Cloud Enablement and platform migrations.
 - 👯 Let's collaborate if you have any fun project ideas
 - 💬 Ask me about anything, I am happy to help
 - 📫 Please [react out to me directly](mailto:ysandeepkumar88@gmail.com) with any questions and/or feedback!
