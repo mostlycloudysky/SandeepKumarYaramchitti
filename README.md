@@ -21,7 +21,7 @@ I love to design and code my ideas into life through full stack applications, Cl
 
 
 
-- 🔭 Engineering Lead with 12+ years of experience in spearheading Technology Innovation, Solution Architecture, DevSecOps, Full Stack Development and Agile Delivery. 
+- 🔭 Engineering Lead with 12+ years of experience in spearheading Technology Innovation, Solution Architecture, DevSecOps, Full Stack Development, Test Automation and Agile Delivery. 
 - 🌱 Leverage technical expertise to provide the necessary design thinking, architecture and thought leadership to help mature the engineering practices in Cloud implementation for applications and infrastructure, Establish DevSecOps practice, Process Automation, Cloud Enablement and platform migrations.
 - 👯 Let's collaborate if you have any fun project ideas
 - 💬 Ask me about anything, I am happy to help
