@@ -15,7 +15,7 @@ I love to design and code my ideas into life through full stack applications, Cl
 <a href="#"><img src="https://img.shields.io/badge/DevOps%20-Engineer-white?style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/IOT-Development-white?style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/IOS%20App-Development-white?style=for-the-badge"></a>
-### [Checkout my Open source github org >>](https://github.com/OSCloudysky/UniNotify)
+### [Checkout my Open source github org >>](https://github.com/OSCloudysky)
 <br />
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/SandeepKumarYaramchitti/SandeepKumarYaramchitti/main/images/ProfileImage.gif" width="408" height="300" />
 
